@@ -10,7 +10,7 @@ public class BodyOfWaterMain {
         System.out.println(b2.name());
         System.out.println(b2.avgDepth());
         b2.setName("Anzaa");
-        System.out.println(b.name());
+        System.out.println(b2.name());
         b.setlargestDiameter(26);
         System.out.println(b.largestDiameter());
     }
